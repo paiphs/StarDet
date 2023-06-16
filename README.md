@@ -6,8 +6,8 @@ Models based on *mask_rcnn_X_101_32x8d_FPN_3x*  by [detectron2](https://github.c
 # Description
 StarDet has been trained on defective astronomical images, allowing it to be used on images with background irregularities, star blooms and other defects. Example of detection on real images:
 <div style="display: flex;">
-    <img src="example/ex_det_1.png" width="470" />
-    <img src="example/ex_det_2.png" width="470" />
+    <img src="example/ex_det_1.png" width="400" />
+    <img src="example/ex_det_2.png" width="400" />
 </div>
 Trained 2 models differing in anchor size, number of epochs and lr decay coeffitient. Models can be downloaded here:
 https://drive.google.com/drive/folders/1yaLpcUBMpBNxMih3BnnM3UbAxmd1b-08?usp=sharing.
